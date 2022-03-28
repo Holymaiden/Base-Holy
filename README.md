@@ -1,6 +1,6 @@
 ## Description
 
-this is project for create API use Express JS with awesome structure folder
+This is project for create API use Express JS with awesome structure folder
 
 ## Feature
 -   Authentication With JSON Web Token
