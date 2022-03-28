@@ -10,6 +10,7 @@ This is project for create API use Express JS with awesome structure folder
 -   Upload Image
 -   Password Hashing
 -   Request Validation
+-   Migration and Seeder
 
 ## Package
 -   bcrypt
