@@ -7,7 +7,7 @@ This is project for create API use Express JS with awesome structure folder
 -   User Role
 -   Paginate
 -   Response
--   Upload Image
+-   File Upload
 -   Password Hashing
 -   Request Validation
 -   Migration and Seeder
