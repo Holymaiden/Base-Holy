@@ -11,12 +11,14 @@ This is project for create API use Express JS with awesome structure folder
 -   Password Hashing
 -   Request Validation
 -   Migration and Seeder
+-   Security Response Headers
 
 ## Package
 -   bcrypt
 -   cors
 -   dotenv
 -   express
+-   helmet
 -   joi
 -   jsonwebtoken
 -   knex
