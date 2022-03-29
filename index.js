@@ -3,6 +3,7 @@ const cors = require("cors");
 const dotenv = require("dotenv");
 const morgan = require("morgan");
 const path = require("path");
+const helmet = require("helmet");
 
 // import routes
 const router = require("./src/routes");
@@ -11,6 +12,7 @@ dotenv.config();
 const app = express();
 
 app.use(cors());
+app.use(helmet());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(morgan("dev"));
